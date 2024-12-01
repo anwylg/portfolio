@@ -6,13 +6,13 @@ I recently completed the Google Cybersecurity Certification, where I gained hand
 ### Projects 
 Here are some of my projects that I have worked on over the years:
 * 1: Conduct a security audit 
-* 1: Network Security
-* 1: Linux & SQL
-* 1: Assets, Threats, & Vulnerabilities
-* 1: Detection & Response
-* 1: Tcpdump & Wireshark
-* 1: IDS & SIEM
-* 1: Automation with Python
+* 2: Network Security
+* 3: Linux & SQL
+* 4: Assets, Threats, & Vulnerabilities
+* 5: Detection & Response
+* 6: Tcpdump & Wireshark
+* 7: IDS & SIEM
+* 8: Automation with Python
 
 ### Tools 
 The tools that I used: 
