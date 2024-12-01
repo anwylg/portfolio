@@ -3,16 +3,17 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my work in cyb
 
 I recently completed the Google Cybersecurity Certification, where I gained hands-on experience in threat detection, incident response, and security monitoring. Building on this foundation, I am planning to study for and pass the CompTIA Security+ certification to further enhance my cybersecurity knowledge and skills. I am eager to apply my technical expertise to strengthen organizational security while continuing to grow professionally in the field.
 
-### Projects 
-Here are some of my projects that I have worked on over the years:
-* 1: Conduct a security audit 
-* 2: Network Security
-* 3: Linux & SQL
-* 4: Assets, Threats, & Vulnerabilities
-* 5: Detection & Response
-* 6: Tcpdump & Wireshark
-* 7: IDS & SIEM
-* 8: Automation with Python
+### Projects & Skills
+Here are some of my projects that I have worked on over the years and a description of the skills I've learned from each projects:
+
+* 1: Conduct a security audit: Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks
+* 2: Network Security: Network Architecture, Network Communication, Security Hardening, Network Security, Cloud Networks
+* 3: Linux & SQL: Command-line Interface, SQL, Linux, Bash
+* 4: Assets, Threats, & Vulnerabilities: Authentication,  Vulnerability assessment, Cryptography, Asset Classification, Threat Modelling Analysis
+* 5: Detection & Response: Incident Journal
+* 6: Tcpdump & Wireshark: Packet Analyzer
+* 7: IDS & SIEM: Splunk, Suricata, Chronicle
+* 8: Automation with Python: Computer Programming, Python Programming, Coding
 
 ### Tools 
 The tools that I used: 
