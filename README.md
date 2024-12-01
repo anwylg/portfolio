@@ -1,8 +1,4 @@
 # Anwyl Gabutero
-> Modul 1-8 are inspired by Google. Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information. More are to come, stay tuned!
-
-> Please make sure you include the original MIT license.
- 
 ## About Me
 Welcome to my GitHub portfolio! Here, you'll find a collection of my work in cybersecurity, programming, and IT-related projects. From Python scripts and Linux-based solutions to security monitoring setups using SIEM tools like Splunk, I showcase my skills and passion for learning. I continuously update this portfolio as I expand my expertise and take on new challenges in the cybersecurity space. Feel free to explore my repositories to see how I tackle real-world problems and apply my knowledge to strengthen security and improve systems.
 
