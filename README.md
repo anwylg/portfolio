@@ -10,10 +10,10 @@ Here are some of my projects that I have worked on over the years and a descript
 * 2: <a href="https://github.com/anwylg/Network-Security">Network Security</a>: Network Architecture, Network Communication, Security Hardening, Network Security, Cloud Networks
 * 3: <a href="https://github.com/anwylg/Linux-SQL/blob/main/File%20Permissions%20Project.pdf">Linux</a> & <a href="https://github.com/anwylg/Linux-SQL">SQL</a>: Command-line Interface, SQL, Linux, Bash
 * 4: <a href="https://github.com/anwylg/Assets-Threats-Vulnerabilities">Assets, Threats, & Vulnerabilities</a> : Authentication,  Vulnerability assessment, Cryptography, Asset Classification, Threat Modelling Analysis
-* 5: Detection & Response: Incident Journal
+* 5: <a href="https://github.com/anwylg/Detection-Response">Detection & Response</a>: Incident Journal
 * 6: Tcpdump & Wireshark: Packet Analyzer
 * 7: IDS & SIEM: Splunk, Suricata, Chronicle
-* 8: Automation with Python: Computer Programming, Python Programming, Coding
+* 8: <a href="https://github.com/anwylg/Automation-with-Python">Automation with Python</a>: Computer Programming, Python Programming, Coding
 
 ### Tools 
 The tools that I used: 
