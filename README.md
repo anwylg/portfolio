@@ -6,9 +6,9 @@ I recently completed the Google Cybersecurity Certification, where I gained hand
 ### Projects & Skills
 Here are some of my projects that I have worked on over the years and a description of the skills I've learned from each projects:
 
-* 1:<a href="https://github.com/anwylg/Conduct-a-Security-Audit">Conduct a security audit</a>: Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks
-* 2:<a href="https://github.com/anwylg/Network-Security"> Network Security</a>: Network Architecture, Network Communication, Security Hardening, Network Security, Cloud Networks
-* 3:<a href="https://github.com/anwylg/Linux-SQL/blob/main/File%20Permissions%20Project.pdf">Linux</a> &<a href="https://github.com/anwylg/Linux-SQL"></a> SQL: Command-line Interface, SQL, Linux, Bash
+* 1:<a href="https://github.com/anwylg/Conduct-a-Security-Audit"> Conduct a security audit</a>: Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks
+* 2:<a href="https://github.com/anwylg/Network-Security">Network Security</a>: Network Architecture, Network Communication, Security Hardening, Network Security, Cloud Networks
+* 3:<a href="https://github.com/anwylg/Linux-SQL/blob/main/File%20Permissions%20Project.pdf">Linux</a> &<a href="https://github.com/anwylg/Linux-SQL">SQL</a>: Command-line Interface, SQL, Linux, Bash
 * 4:<a href="https://github.com/anwylg/Assets-Threats-Vulnerabilities">Assets, Threats, & Vulnerabilities</a> : Authentication,  Vulnerability assessment, Cryptography, Asset Classification, Threat Modelling Analysis
 * 5: Detection & Response: Incident Journal
 * 6: Tcpdump & Wireshark: Packet Analyzer
