@@ -6,7 +6,7 @@ I recently completed the Google Cybersecurity Certification, where I gained hand
 ### Projects & Skills
 Here are some of my projects that I have worked on over the years and a description of the skills I've learned from each projects:
 
-* 1: Conduct a security audit: Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks
+* 1: <a href="https://github.com/anwylg/Conduct-a-Security-Audit">Conduct a security audit</a>: Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks
 * 2: Network Security: Network Architecture, Network Communication, Security Hardening, Network Security, Cloud Networks
 * 3: Linux & SQL: Command-line Interface, SQL, Linux, Bash
 * 4: Assets, Threats, & Vulnerabilities: Authentication,  Vulnerability assessment, Cryptography, Asset Classification, Threat Modelling Analysis
