@@ -3,9 +3,12 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my work in cyb
 
 I recently completed the <a href ="https://github.com/anwylg/Certification/blob/main/Certifcation.pdf">Google Cybersecurity Certification</a>, where I gained hands-on experience in threat detection, incident response, and security monitoring. Building on this foundation, I am planning to study for and pass the CompTIA Security+ certification to further enhance my cybersecurity knowledge and skills. I am eager to apply my technical expertise to strengthen organizational security while continuing to grow professionally in the field.
 
-### Projects & Skills
+## Projects & Skills
 Here are some of my projects that I have worked on over the years and a description of the skills I've learned from each projects:
 
+### Information Technologies Support
+
+### CyberSecurity
 * 1: <a href="https://github.com/anwylg/Conduct-a-Security-Audit">Conduct a security audit</a>: Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks
 * 2: <a href="https://github.com/anwylg/Network-Security">Network Security</a>: Network Architecture, Network Communication, Security Hardening, Network Security, Cloud Networks
 * 3: <a href="https://github.com/anwylg/Linux-SQL/blob/main/File%20Permissions%20Project.pdf">Linux</a> & <a href="https://github.com/anwylg/Linux-SQL">SQL</a>: Command-line Interface, SQL, Linux, Bash
@@ -15,7 +18,7 @@ Here are some of my projects that I have worked on over the years and a descript
 * 7: IDS & SIEM: Splunk, Suricata, Chronicle
 * 8: <a href="https://github.com/anwylg/Automation-with-Python">Automation with Python</a>: Computer Programming, Python Programming, Coding
 
-### Tools 
+## Tools 
 The tools that I used: 
 * Google Workspace (Drive, Docs, Sheets, Slides)
 * Markdown Language 
