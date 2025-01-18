@@ -7,6 +7,8 @@ I recently completed the <a href ="https://github.com/anwylg/Certification/blob/
 Here are some of my projects that I have worked on over the years and a description of the skills I've learned from each projects:
 
 ### Information Technologies Support
+* 1: <a href= "https://github.com/anwylg/active-directory/tree/main"> Configuring Active Directory with Windows </a>: Windows, Oracle Virtualbox, Active Directory, PowerShell
+
 
 ### CyberSecurity
 * 1: <a href="https://github.com/anwylg/Conduct-a-Security-Audit">Conduct a security audit</a>: Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks
@@ -29,5 +31,9 @@ The tools that I used:
 * Chronicle
 * Splunk
 * Suricata
-* Python 
+* Python
+* Windows
+* Oracle Virutalbox
+* PowerShell
+* Active Directory
 
